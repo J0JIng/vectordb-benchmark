@@ -1,4 +1,4 @@
-# benchmark-db
+# vectordb-benchmark
 
 ## ⏱️ Summary of Elapsed Times
 
